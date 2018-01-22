@@ -1,8 +1,10 @@
-# Speed_Bump
-A small form inline power filter/protector for eurorack, designed for use with busboard or individual module.
+# Speed Bump
+A small inline power filter/protector for Eurorack synthesizers that can be installed before a generic busboard or module.
 
-Speed bump is designed for usecases including:
+It is designed to filter out high and low frequency noise from power supplies and provides overcurrent and reverse polarity protection.
 
-1.being placed on the input to a busboard giving high and low frequency power filtering, reverse poliarity protection and resetible fuse protection. 
+## Installation suggestion
 
-2.being placed the power header of a bus board and a noisy module giving high and low frequency power filtering, reverse poliarity protection and a resetible fuse protection.
+1. Install on input of generic busboard
+
+2. Install bewteen generic bus board and module
