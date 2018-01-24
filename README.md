@@ -7,4 +7,4 @@ It is designed to filter out high and low frequency noise from power supplies an
 
 1. Install on input of generic busboard
 
-2. Install bewteen generic bus board and module
+2. Install between generic busboard and module
